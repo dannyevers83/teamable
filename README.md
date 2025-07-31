@@ -10,6 +10,10 @@ npm run test
 
 npm run start
 
+### To build the application, execute
+
+npm run build
+
 ### To package the application, execute
 
 npm pack
